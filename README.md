@@ -4,7 +4,7 @@ This PHP script (maintenance.php) is designed to log visitor information when ac
 
 Usage:
 1. Place the maintenance.php file on your web server.
-2. Ensure that the web server has write permissions to create and append to the log file (maintenance.php).
+2. Ensure that the web server has write permissions to create and append to the log file.
 3. Access the script via a web browser to log visitor information.
 
 Security Considerations:
